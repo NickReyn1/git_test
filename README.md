@@ -1,1 +1,1 @@
-text
+This is Nicks first git project.
